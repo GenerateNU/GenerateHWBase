@@ -43,3 +43,11 @@ fp-info-cache
 .pio
 .vscode
 .vs
+
+# Python Files
+build/
+dist/
+__pycache__/
+logs/
+.idea/
+Pipfile.lock
